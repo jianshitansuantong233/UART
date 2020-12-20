@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+E:/Projects/uart/uart.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+E:/Projects/uart/uart.srcs/sim_1/new/tb.v,1608469635,verilog,,,,tb,,,,,,,,
+E:/Projects/uart/uart.srcs/sources_1/new/Read.v,1608469796,verilog,,E:/Projects/uart/uart.srcs/sources_1/new/sample_result.v,,Read,,,,,,,,
+E:/Projects/uart/uart.srcs/sources_1/new/Write.v,1608455939,verilog,,E:/Projects/uart/uart.srcs/sources_1/new/sample_result.v,,Write,,,,,,,,
+E:/Projects/uart/uart.srcs/sources_1/new/sample_result.v,1608466898,verilog,,E:/Projects/uart/uart.srcs/sim_1/new/tb.v,,sample_result,,,,,,,,
+E:/Projects/uart/uart.srcs/sources_1/new/source.v,1608464954,verilog,,E:/Projects/uart/uart.srcs/sim_1/new/tb.v,,main,,,,,,,,
